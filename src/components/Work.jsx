@@ -26,7 +26,7 @@ const works = [
       imgSrc: '/images/project-4.jpg',
       title: 'Port-folio',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee-org/wealthome'
+      projectLink: 'https://portfolio-tawny-tau-76.vercel.app/'
     },
     {
       imgSrc: '/images/project-5.jpg',
